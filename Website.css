@@ -1,0 +1,264 @@
+#imageheader {
+  width: 100%;
+  height: 200px;
+}
+
+#maintitle {
+  margin: auto;
+  color: Red;
+  font-family: sans-serif;
+  font-size: 100px;
+}
+
+#pizzadiv {
+  width: 40%;
+  background-color: #467fdb;
+  border: 3px solid black;
+  margin-bottom: 15px;
+  padding: 5px;
+  display: inline-block;
+  margin-left: 20px;
+}
+
+#menu {
+  font-size: 45px;
+  font-family: monospace;
+  color: white;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  margin-left: 17%;
+}
+
+.pizzahead {
+  font-size: 30px;
+}
+#ordernow {
+  font-size: 75px;
+  color: white;
+  float: right;
+  margin-right: 10px;
+}
+
+.body {
+  background-image: url("https://images8.alphacoders.com/369/369063.jpg");
+}
+
+#Links {
+  width: 25%;
+  background-color: #ed8428;
+  border: 3px solid black;
+  padding:5px;
+  float: right;
+  display: inline-block;
+}
+.linkslist:hover {
+  color: #bf6dd6;
+}
+.linkslist {
+  font-size: 40px;
+  color: black;
+  margin-right: 20px;
+}
+
+.pizzadiv1 {
+  width: 40%;
+  background-color: #467fdb;
+  border: 3px solid black;
+  margin-bottom: 15px;
+  padding: 5px;
+  margin-left: 20px;
+}
+
+#ordernowdiv {
+  width: 100%;
+  height: 100%;
+  background-color: #4cb554;
+  border: 3px solid black;
+}
+
+.paymentlist {
+  font-size:40px;
+  padding-left: 10px;
+}
+
+#onh {
+  font-size: 75px;
+}
+
+#sod {
+  width: 75%;
+  background-color: #d64242;
+  padding: 20px;
+  border: 3px solid black;
+}
+
+#sods1 {
+  height: 400px;
+  width: 400px;
+  margin: 20px;
+  background-color: yellow;
+  border: 3px solid black;
+  display: inline-block;
+  padding: 5px;
+}
+
+#sods2 {
+  height: 400px;
+  width: 400px;
+  margin: 20px;
+  background-color: purple;
+  border: 3px solid black;
+  display: inline-block;
+  padding: 5px;
+  vertical-align: top;
+}
+
+#sods3 {
+  height: 400px;
+  width: 400px;
+  margin: 20px;
+  background-color: orange;
+  border: 3px solid black;
+  display: inline-block;
+  padding: 5px;
+  vertical-align: top;
+}
+
+#sods4 {
+  height: 400px;
+  width: 400px;
+  margin: 20px;
+  background-color: #2dfcf2;
+  border: 3px solid black;
+  display: inline-block;
+  padding: 5px;
+}
+
+#sods5 {
+  height: 400px;
+  width: 400px;
+  margin: 20px;
+  background-color: #ed78ca;
+  border: 3px solid black;
+  display: inline-block;
+  padding: 5px;
+  vertical-align: top;
+}
+
+#sods6 {
+  height: 400px;
+  width: 400px;
+  margin: 20px;
+  background-color: #64ff30;
+  border: 3px solid black;
+  display: inline-block;
+  padding: 5px;
+  vertical-align: top;
+}
+
+.soh1 {
+  font-size: 60px;
+  font-family: cursive;
+  color: #84897d;
+}
+
+#aud {
+  width: 50%;
+  background-image: url("https://image.freepik.com/free-vector/grey-linen-texture-background_1053-253.jpg");
+  padding: 15px;
+  margin-top: 50px;
+}
+
+.aup {
+  font-size: 40px;
+  color: #84897d;
+}
+
+#onh {
+  padding-left: 20px;
+}
+
+.specialoffersheadings {
+  font-size: 50px;
+}
+
+.menuitems {
+  font-size: 20px;
+}
+
+#orderformdiv {
+  background-color: #4cb554;
+  width: 25%;
+  border: 3px solid black;
+  margin-top: 25px;
+  padding-bottom: 25px;
+}
+
+#orderformheader {
+  font-size: 40px;
+}
+
+.ordernowformfields {
+  font-size: 20px;
+  margin-left: 5px;
+}
+
+#sendbutton {
+  width: 100px;
+  background-color: black;
+  border: 3px solid white;
+}
+
+#ordernowbutton {
+  color: white;
+}
+
+#ordercompleteddiv {
+  width: 20%;
+  background-color: black;
+}
+
+#ordercompletedp {
+  color: white;
+  font-size: 75px;
+}
+
+.returnhomediv {
+  width: 200px;
+  background-color: black;
+  border: 3px solid white;
+  margin: 10px;
+}
+
+.returnhometext {
+  color: white;
+  font-size: 25px;
+}
+
+#jad {
+  width: 40%;
+}
+
+#njaa {
+  color: white;
+  font-size: 50px;
+}
+
+#wholemenudiv {
+  background-image: url("https://www.pixeden.com/media/k2/galleries/220/003-wood-melamine-subttle-pattern-background-pat.jpg");
+  padding: 30px;
+  margin: 30px;
+  width: 50%;
+  height: auto;
+}
+
+.soh {
+  font-size: 60px;
+  font-family: cursive;
+  color: black;
+}
+
+.aup1 {
+  font-size: 40px;
+  color: black;
+}
